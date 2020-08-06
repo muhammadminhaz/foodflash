@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: CustomText(
-                text: 'Featured',
+                text: 'Featured~',
                 size: 20,
                 color: grey,
               ),
@@ -95,7 +95,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: CustomText(
-                text: 'Popular',
+                text: 'Popular~',
                 size: 20,
                 color: grey,
               ),
